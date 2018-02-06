@@ -1,0 +1,12 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+h1 {
+  color: green;
+}
+
+th {
+  color: red;
+  text-shadow: 1px 2px black;
+}
